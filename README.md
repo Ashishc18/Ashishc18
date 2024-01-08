@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashishc18
+Author- Ashish Chavan
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Full stack Java
 - 💞️ I’m looking to collaborate on top coding groups 
